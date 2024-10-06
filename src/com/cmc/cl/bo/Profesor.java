@@ -12,6 +12,4 @@ public class Profesor extends Persona{
 		this.codProfesor = codProfesor;
 	}
 	
-	
-
 }
